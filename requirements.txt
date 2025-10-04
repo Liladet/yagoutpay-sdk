@@ -1,0 +1,6 @@
+streamlit
+requests
+cryptography
+qrcode[pil]
+pillow
+pycryptodome
